@@ -4,7 +4,7 @@ import java.io.*;
  * The Arithmetic program will take 2 input lines as outlined by the etude guidelines and check if the requested 
  * goal number from line 2 can be reached with the input numbers in the first line using the requested method.
  * If it can, the output of how will be printed in the requested format, if not a suitable message will appear. 
- * Guidlines are found in the spec document. 
+ * Guidlines are found at this link http://www.cs.otago.ac.nz/cosc326/PDF/Arithmetic.pdf
  * 
  * Note, the limitation of this program is the size of int that can be represented by the Integer class
  * in java. 
